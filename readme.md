@@ -15,4 +15,4 @@ Este repositorio contiene material de la cursada, apuntes de las clases, la plan
 ## Alumnos
 
 - ?
-Agustín Xavier Castellani Abriola
+-[Agustín Xavier Castellani Abriola] (https://github.com/agustinxca).
